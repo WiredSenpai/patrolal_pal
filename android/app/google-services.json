@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "268663028306",
+    "project_id": "patrol-pal-92902",
+    "storage_bucket": "patrol-pal-92902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268663028306:android:063992d8bedfe2f4a3bd8b",
+        "android_client_info": {
+          "package_name": "com.example.patrol_pal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268663028306-hr9kkuf8u53ltcqqc69fjh3uqn25eb68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ffr66HDH0ixYeLiNfYlu_A3w7K3HJFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268663028306-hr9kkuf8u53ltcqqc69fjh3uqn25eb68.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "268663028306-2li64vmudakbpo636jsekp0v96eei0pr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.patrolPal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268663028306:android:b2b355401fdef04ea3bd8b",
+        "android_client_info": {
+          "package_name": "com.patrolpal.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268663028306-hr9kkuf8u53ltcqqc69fjh3uqn25eb68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ffr66HDH0ixYeLiNfYlu_A3w7K3HJFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268663028306-hr9kkuf8u53ltcqqc69fjh3uqn25eb68.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "268663028306-2li64vmudakbpo636jsekp0v96eei0pr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.patrolPal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
